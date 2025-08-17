@@ -1,6 +1,7 @@
 title: "Jason Jung"
 description: "My personal website"
-theme: minima
+theme: jekyll-theme-minimal
+logo: "/assets/profile.jpg"
 
 # Sidebar options
 author:
