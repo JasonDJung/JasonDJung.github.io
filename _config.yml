@@ -1,19 +1,21 @@
 title: "Jason Jung"
-description: "My personal website"
-theme: jekyll-theme-minimal
-logo: "/assets/profile.jpg"
+description: "Welcome to my website"
+theme: minima
+markdown: kramdown
 
-# Sidebar options
-author:
-  name: Jason Jung
-  avatar: "/assets/profile.jpg"
-  bio: "Hi, I'm Jason Jung"
 
-# Navigation
 header_pages:
   - about.md
-  - projects.md
+  - HWprojects.md
+  - SWprojects.md
 
-# Social links (optional)
-github_username: JasonDJung
-linkedin_username: https://www.linkedin.com/in/jason-jung-b6b2931b3/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: light        # options: light, dark
+  logo: "/assets/profile.jpg"
+  social_links:
+    linkedin: "https://www.linkedin.com/in/jason-jung-b6b2931b3/"
+
+

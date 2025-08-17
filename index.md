@@ -4,9 +4,11 @@ title: Home
 ---
 
 # Welcome!
-
-Hi, I’m **Jason Jung** 👋.  
-This is my personal website.
+![Jason Jung](/assets/profile.jpg){: style="width:150px; border-radius:50%;"}
+\\
+Hi, I’m **Jason Jung** 👋. Welcome to my personal website.
 
 - [About Me](about.md)
-- [Projects](projects.md)
+- [Hardware Projects](HWprojects.md)
+- [Software Projects](SWprojects.md)
+
