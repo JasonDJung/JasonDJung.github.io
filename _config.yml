@@ -1,10 +1,10 @@
-title: "Your Name"
+title: "Jason Jung"
 description: "My personal website"
 theme: minima
 
 # Sidebar options
 author:
-  name: Your Name
+  name: Jason Jung
   avatar: "/assets/profile.jpg"
   bio: "Hi, I'm Jason Jung"
 
@@ -14,5 +14,5 @@ header_pages:
   - projects.md
 
 # Social links (optional)
-github_username: your-username
-linkedin_username: your-linkedin
+github_username: JasonDJung
+linkedin_username: https://www.linkedin.com/in/jason-jung-b6b2931b3/

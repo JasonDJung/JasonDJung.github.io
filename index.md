@@ -6,7 +6,7 @@ title: Home
 # Welcome!
 
 Hi, I’m **Jason Jung** 👋.  
-This is my personal website built with GitHub Pages and Markdown.
+This is my personal website.
 
 - [About Me](about.md)
 - [Projects](projects.md)

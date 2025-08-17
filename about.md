@@ -6,11 +6,5 @@ permalink: /about/
 
 # About Me
 
-I’m **Your Name**, a [your role/student/etc.].  
+I’m **Jason Jung**, an Electrical Engineering student at University of Illinois.   
 
-Things I’m interested in:
-- 🌱 Research area / hobbies
-- 💻 Coding / tools you use
-- 🎨 Creative side
-
-Outside of work, I enjoy running, cooking, coffee, and exploring new tech.
